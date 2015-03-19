@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resurces>
+	<string-array name="pref_interval_values">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>9</item>
+		<item>12</item>
+		<item>18</item>
+		<item>24</item>
+	</string-array>
+	<string-array name="pref_interval_entries">
+		<item>1 hodina</item>
+		<item>2 hodiny</item>
+		<item>3 hodiny</item>
+		<item>4 hodiny</item>
+		<item>5 hodin</item>
+		<item>6 hodin</item>
+		<item>9 hodin</item>
+		<item>12 hodin</item>
+		<item>18 hodin</item>
+		<item>24 hodin</item>
+	</string-array>
+
+	<string-array name="pref_size_values">
+		<item>compact</item>
+		<item>smaller</item>
+		<item>medium</item>
+		<item>bigger</item>
+		<item>huge</item>
+	</string-array>
+	<string-array name="pref_size_entries">
+		<item>malé (~800 bodů)</item>
+		<item>menší (~1000 bodů)</item>
+		<item>střední (~1200 bodů)</item>
+		<item>větší (~1300 bodů)</item>
+		<item>velké (~1600 bodů)</item>
+	</string-array>
+</resurces>
